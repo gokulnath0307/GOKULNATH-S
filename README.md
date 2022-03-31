@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GOKULNATH S</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-m1&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-m1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulnath0307&label=Profile%20views&color=0e75b6&style=flat" alt="gokulnath0307" /> </p>
 
 - 🌱 I’m currently learning **JavaScript , React , Node , MongoDB**
 
